@@ -1,0 +1,11 @@
+.attribution {
+    font-size: 11px;
+    position: absolute;
+    top: 97%;
+    left: 39%;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+    font-weight: 700;
+  }
